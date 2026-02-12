@@ -1,0 +1,9 @@
+rootProject.name = "med-replay"
+
+include(
+    "protocol",
+    "simulator",
+    "ingestion",
+    "storage",
+    "replay"
+)
